@@ -1,5 +1,6 @@
 ### Hi there 👋
-🌱 I’m currently learning HTML, CSS, JavaScript, and React JS.
+🔭 I'm currently working on HTML, CSS, Javascript and React Js.
+🌱 I’m currently learning mongoDB, NodeJs
 
 <!--
 **nayalchitra/nayalchitra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
