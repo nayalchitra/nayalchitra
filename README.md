@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 I'm currently working on HTML, CSS, Javascript and React Js.\n
+🔭 I'm currently working on HTML, CSS, Javascript and React Js. <br/>
 🌱 I’m currently learning mongoDB and NodeJs.
 
 <!--
